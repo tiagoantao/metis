@@ -35,6 +35,6 @@ Some recommended packages
 
 ## Licensing and contact
 
-All content is made available under the GNU Affero General Public License.
+All content is made available under the GNU Affero General Public License 3.0.
 
-Author: [Tiago Antao](mailto:tiago@tiago.org)
+Author: [Tiago Antao](https://tiago.org)
