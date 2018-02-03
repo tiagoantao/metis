@@ -31,3 +31,10 @@ Some recommended packages
 
 - [Vega & Vega-Lite](https://vega.github.io) Powerful charting libraries in JavaScript
 - [Cytoscape.js](https://js.cytoscape.org) Graph theory and network library for analysis and visualization
+
+
+## Licensing and contact
+
+All content is made available under the GNU Affero General Public License.
+
+Author: [Tiago Antao](mailto:tiago@tiago.org)
